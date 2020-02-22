@@ -12,5 +12,4 @@ Painting in China
 
 创建和维护`Painting-in-China`需要花费很多的时间和资源. 如果此数据库对您有很大的帮助, 请酌情考虑打赏作者.
 
-<img src="https://github.com/vitazc/Painting-in-China/issues/1#issue-569311239" width="150" height="200" />
-
+<img src="https://github.com/vitazc/Painting-in-China/issues/1#issue-569311239" width="180" height="200" />
