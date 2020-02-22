@@ -1,2 +1,2 @@
 # pic
-pic collection
+按时间线搜集中国画家的作品
